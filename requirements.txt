@@ -1,0 +1,27 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+
+images                                                                                 labels
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\angry            angry
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\angry       angry
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\disgust          disgust
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\disgust     disgust
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\fear              fear
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\fear          fear
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\happy             happy
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\happy         happy
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\neutral            neutral
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\neutral        neutral
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\sad                  sad
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\sad              sad
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\train\surprise            surprise
+C:\Users\91970\Desktop\Drakshayani\face_emotion_detection\images\validation\surprise        surprise
+
+load_img(img,grayscale=True)
